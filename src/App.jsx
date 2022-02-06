@@ -183,7 +183,16 @@ function App() {
 						Oscar Godson
 					</a>
 				</p>
-				<p>Recreated Daniel Jurkiewicz</p>
+				<p>
+					Recreated by{" "}
+					<a
+						href="https://github.com/daniel-jurkiewicz"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
+						Daniel Jurkiewicz
+					</a>
+				</p>
 			</div>
 		</>
 	);
