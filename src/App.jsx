@@ -183,10 +183,7 @@ function App() {
 						Oscar Godson
 					</a>
 				</p>
-				<p>
-					Recreated by Joanna Florczak, Damian Sulej, Daniel
-					Jurkiewicz
-				</p>
+				<p>Recreated Daniel Jurkiewicz</p>
 			</div>
 		</>
 	);
